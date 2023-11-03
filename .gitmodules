@@ -1,0 +1,4 @@
+[submodule "GeekerAdmin-mp-system"]
+	url  = https://gitee.com/haimashale/geeker-admin-lc
+	path = GeekerAdmin-mp-system
+
